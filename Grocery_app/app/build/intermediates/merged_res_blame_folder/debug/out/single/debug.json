@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxxhdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-xxxhdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-ldpi_ic_delete.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-ldpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xhdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-xhdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-xxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-anydpi-v21\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-hdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-hdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-ldpi_ic_plus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-ldpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\layout_add_item_dialog.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\layout\\add_item_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-ldpi_ic_add.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-ldpi_ic_minus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-ldpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-mdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-mdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-anydpi-v21_ic_plus.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-anydpi-v21\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\layout_shopping_item.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\layout\\shopping_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-mdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-mdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxhdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-xxhdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-mdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-hdpi_ic_minus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-hdpi\\ic_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.rahulbasket.app-merged_res-17:/layout_shopping_item.xml.flat",
+        "source": "com.example.rahulbasket.app-main-19:/layout/shopping_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-anydpi-v21_ic_minus.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-anydpi-v21\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-pngs-12:\\drawable-xxxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-merged_res-17:\\layout_activity_shopping.xml.flat",
+        "source": "C:\\Users\\rahul\\.gradle\\daemon\\7.3.3\\com.example.rahulbasket.app-main-19:\\layout\\activity_shopping.xml"
+    }
+]
