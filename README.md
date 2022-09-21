@@ -1,5 +1,5 @@
 # SPSGP-94646-Virtual-Internship---Android-Application-Development-Using-Kotlin
-Virtual Internship - Android Application Development Using Kotlin
+
 This is the readMe of the Grocery Application.
 
 Building a Grocery Android Application using Kotlin.
